@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there! 👋, I'm Reza Salmani</h1>
-
+<br>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=FrontEnd+Developer+🧑‍💻;React+Developer+🥷;JavaScript+Lover+❤️;Always%20learning%20new%20things&center=true&width=380&height=45">
