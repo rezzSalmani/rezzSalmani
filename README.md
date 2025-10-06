@@ -12,8 +12,8 @@
   <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - 🌍  I'm based in Iran / Isfahan
-- 🔭 I’m currently working on **personal projcts**
-- 🌱 I’m currently learning **TypeScript**
+- 🔭 I’m currently working on **Enhancing my Skills**
+- 🌱 I’m currently learning **ASP.Net**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/rezzSalmani?tab=repositories)
 - 💬 Ask me about **anything**
 - ✉️  You can contact me at [rezasalmani.dev@gmail.com](mailto:rezasalmani.dev@gmail.com)
